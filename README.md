@@ -1,3 +1,7 @@
+# Preview
+
+<img width="1680" alt="Preview1" src="https://user-images.githubusercontent.com/50895014/173251434-2830c3e9-660a-4e88-93f0-6d4ffe2298bd.png">
+
 ### Introduction
 
 For this project you'll be creating an entire web page from a design we'll provide for you. If you've been following along you should have the skills you need to accomplish this, but it may not be easy!
